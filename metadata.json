@@ -1,0 +1,6 @@
+{
+  "name": "LunaCycle",
+  "description": "A beautiful and intuitive menstrual cycle and fertility tracking app with liquid glass design and Luna AI wellness assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

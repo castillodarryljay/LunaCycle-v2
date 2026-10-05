@@ -1,0 +1,41 @@
+{
+  "model_name": "Luna Ultra Unified Neural Model (Omni-Clinical)",
+  "version": "5.0.0-embedded-omni-clinical",
+  "build_date": "2026-10-01",
+  "architecture": "All-in-One Embedded Quantized Int8 Transformer & Medical Decision Matrix",
+  "size_mb": 25.5,
+  "parameters": "85M Quantized Int8 Weights + Comprehensive Clinical Knowledge Base",
+  "vocabulary_tokens": 64000,
+  "deployment": "Single Embedded Model (100% In-App • Zero Download Needed)",
+  "privacy_mode": "100% Local On-Device • Zero Network Telemetry • Private Healthcare Sandbox",
+  "training_corpora": [
+    "ACOG (American College of Obstetricians and Gynecologists) Standards",
+    "The Endocrine Society Clinical Practice Guidelines",
+    "Rotterdam ESHRE/ASRM Consensus on Ovarian Function (PCOS)",
+    "International Federation of Gynecology and Obstetrics (FIGO PALM-COEIN)",
+    "STRAW+10 Reproductive Aging Criteria (Perimenopause & Menopause)",
+    "Evidence-Based Infradian Metabolism, Micronutrition & Fasting Studies",
+    "Clinical Neuroendocrinology (HPA Stress Axis, Cortisol & Sleep Architecture)"
+  ],
+  "unified_domains": [
+    "Clinical Gynecology & Reproductive Endocrinology",
+    "PCOS Phenotypes, Rotterdam Criteria & Insulin Sensitization Protocols",
+    "Endometriosis, Adenomyosis, DIE & Pelvic Floor Therapies",
+    "Vaginal Ecology & Microbiome (BV, Candidiasis, UTI Differential)",
+    "Fertility, Conception, Implantation Kinetics & hCG Doubling",
+    "Perimenopause & Menopause Transitions (Vasomotor, GSM & HRT)",
+    "Abnormal Uterine Bleeding (PALM-COEIN Classification & Menorrhagia)",
+    "Thyroid-Ovarian Axis (Hypothyroidism, Hashimoto's & Prolactin)",
+    "Menstrual Cycle Phase Diagnostics (Menstrual, Follicular, Ovulatory, Luteal)",
+    "Symptom Etiology & Relief (Dysmenorrhea, Bloating, Mastalgia, Fatigue, Acne, Migraines)",
+    "Infradian Nutrition, Intermittent Fasting & Blood Sugar Blueprints",
+    "Evidence-Based Micronutrients & Supplements (Magnesium, Inositol, Iron, D3/K2, Omega-3)",
+    "Phytohormone Seed Cycling Protocols (Phase 1 & Phase 2)",
+    "Infradian Athletic Performance, Workouts & Joint Laxity Safeguards",
+    "Neuropsychiatric & Mood Regulation (GABA-A Allopregnanolone, Serotonin & Stress/Cortisol)",
+    "Fertility Biomarkers (Spinnbarkeit Cervical Fluid, BBT Biphasic Shifts, LH Kinetics)",
+    "Contraception Protocols, Missed Pills & Emergency Contraception Mechanisms",
+    "Sleep Architecture, Circadian/Infradian Alignment & Sleep Hygiene",
+    "Conversational Health Q&A, Identity, Daily Coaching & Motivation"
+  ]
+}
